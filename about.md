@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi all! I am a chemistry undergratdute student at Calpoly SLO. I found my pasison for chemistry when I took my Organic Chemistry classes. Besides of my passion for chemsitry, I enjoy riding my road bike and hiking. 
+Hi all! I am an undergratdute chemistry student at Calpoly SLO. Besides of my passion for chemsitry, I enjoy riding my road bike, and hiking. 
 
 ### More Information
 
